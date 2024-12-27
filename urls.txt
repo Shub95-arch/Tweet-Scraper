@@ -1,0 +1,2 @@
+{'url':'https://x.com/search?q=ethereum&src=typed_query&f=live', 'cookie_path':'./cookies/twitter.txt'},
+{'url':'https://x.com/search?q=bitcoin&src=typed_query&f=live', 'cookie_path':'./cookies/twitter1.txt'}
